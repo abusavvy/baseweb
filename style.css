@@ -3,6 +3,10 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+h2{
+    font-weight: bold;
+}
+
 p {
     margin-bottom: 24px;
     color: chartreuse;
